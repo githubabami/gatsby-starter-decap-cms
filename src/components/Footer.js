@@ -107,8 +107,11 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        <div>
+                    <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=e097abad-0685-4dfd-a7ef-8ede69a89932&iFrameMode=true" width="100%" height="400px"></iframe>
+        </div>
       </footer>
-    <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=e097abad-0685-4dfd-a7ef-8ede69a89932&iFrameMode=true" width="100%" height="400px"></iframe>
+    
     );
 };
 
