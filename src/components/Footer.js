@@ -110,6 +110,7 @@ const Footer = () => {
         <div>
                     <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=e097abad-0685-4dfd-a7ef-8ede69a89932&iFrameMode=true" width="100%" height="400px"></iframe>
         </div>
+        <script>window.aichatbotApiKey="e097abad-0685-4dfd-a7ef-8ede69a89932"; window.aichatbotProviderId="f9e9c5e4-6d1a-4b8c-8d3f-3f9e9c5e46d1";</script><script src="https://script.chatlab.com/aichatbot.js" id="e097abad-0685-4dfd-a7ef-8ede69a89932" defer></script>
       </footer>
     
     );
